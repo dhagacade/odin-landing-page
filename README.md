@@ -1,1 +1,2 @@
 # odin-landing-page
+The Odin Landing Page project is a web development project that aims to help learners practice their HTML and CSS skills by building a simple landing page for a fictional company called "Odin". It involves creating a static webpage that includes a header, a call-to-action section, a features section, and a footer. The project can be completed using basic HTML and CSS knowledge, and it's a great way to get started with web development.
